@@ -21,12 +21,11 @@ Note: Datasets present in folder `data`
     - `passenger_count` - integer indicating the number of passengers in the taxi ride.
     
 ## Features [After preprocessing + selecting best original]
-
-    - `fare_amount` - float dollar amount of the cost of the taxi ride.
-    - `passenger_count` - integer indicating the number of passengers in the taxi ride.
-    - `distance` - distance in KM from pickup and dropoff locations.
-    - `month` - month extracted from the original feature of `pickup_datetime`
-    - `year` - year extracted from the original feature of `pickup_datetime`
+- `fare_amount` - float dollar amount of the cost of the taxi ride.
+- `passenger_count` - integer indicating the number of passengers in the taxi ride.
+- `distance` - distance in KM from pickup and dropoff locations.
+- `month` - month extracted from the original feature of `pickup_datetime`
+- `year` - year extracted from the original feature of `pickup_datetime`
 
 
 ## Visualizations
